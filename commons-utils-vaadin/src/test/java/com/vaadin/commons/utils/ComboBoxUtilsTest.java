@@ -21,6 +21,7 @@ import static org.junit.Assert.assertTrue;
 
 import org.junit.Test;
 
+import com.only.vaadin.utils.ComboBoxUtils;
 import com.vaadin.ui.ComboBox;
 
 public class ComboBoxUtilsTest {
